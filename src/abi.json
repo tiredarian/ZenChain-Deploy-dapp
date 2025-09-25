@@ -1,0 +1,9 @@
+[
+  {
+    "inputs": [],
+    "name": "sayHello",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
